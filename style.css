@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(252, 211, 150);
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#buttons {
+    margin: 100px 33%;
+    padding-bottom: 50px;
+}
+
+#buttons button {
+    float: left;
+    cursor: pointer;
+    border: 0;
+    background-color: rgb(252, 211, 150);
+}
+
+#result img {
+    display: none;
+    clear: left;
+    margin: 0 44%;
+}
+
+#score {
+    font: bold 100px/50px Lucida, monospace;
+}
+
+#me {
+    float: left;
+    padding-left: 100px;
+}
+
+#pc {
+    float: right;
+    padding-right: 100px;
+}
